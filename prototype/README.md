@@ -149,7 +149,9 @@ All data is synthetic/in-memory. Goals and progress are stored in React state an
 ## Deployment
 
 ### Deployed Version
-[View deployed app on Netlify](TBD)
+[View deployed app on Netlify](http://storied-baklava-d5f44c.netlify.app)
+
+**Live URL**: http://storied-baklava-d5f44c.netlify.app
 
 The app is deployed using Netlify's continuous deployment from the GitHub repository. Any push to the `main` branch automatically triggers a build and deploy.
 
